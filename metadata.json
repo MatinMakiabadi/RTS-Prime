@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RTS Prime: React Strategy",
+  "description": "A fully functional top-down 2D Real-Time Strategy game prototype featuring base building, resource management, unit production, upgrades, and combat with enemy AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
